@@ -1,0 +1,14 @@
+.shoe-card{
+    border: 0;
+}
+.shoe-card-footer{
+    border: 0;
+    background-color: #fff;
+}
+.categories img{
+    width: 100px;
+}
+.panda-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
